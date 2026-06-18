@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SH-alii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;Full-stack+%26+Mobile+Developer;React+Native+%C2%B7+TanStack+%C2%B7+Supabase;I+build+cross-platform+apps+end+to+end" alt="Ali Shareef" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;Full-stack+%26+Mobile+Developer;React+Native+%C2%B7+NextJs+%C2%B7+Supabase;I+build+cross-platform+apps+end+to+end" alt="Ali Shareef" />
   </a>
 </p>
 
@@ -88,8 +88,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SH-alii&theme=react-dark&hide_border=true&area=true&color=FE428E&line=FE428E&point=FFFFFF&bg_color=1F1F1F" alt="Contribution Activity Graph"/>
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SH-alii/SH-alii/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SH-alii/SH-alii/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SH-alii/SH-alii/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <!--
-  Widgets (all zero-setup, no GitHub Action or API keys needed):
+  Widgets (most are zero-setup, no API keys needed):
    • readme-typing-svg .......... animated header
    • github-readme-stats ........ stats, top-langs
    • github-readme-streak-stats . streak
@@ -97,4 +109,9 @@
   Note: Featured Projects are PRIVATE repos, so they're listed (no links) as a
   showcase. If you make a repo public later, link it: [Name](https://github.com/SH-alii/repo).
   Theme: swap `radical` (and the FE428E accent) for another theme to restyle.
+
+  SNAKE: the 🐍 section needs a GitHub Action that generates the SVG into the
+  `output` branch of the SH-alii repo. The workflow file is at
+  .github/workflows/snake.yml — copy it into the repo too. Until the Action runs
+  once, the snake image will be blank. See SETUP-INSTRUCTIONS.md.
 -->
