@@ -3,11 +3,14 @@
   Publishing steps: see SETUP-INSTRUCTIONS.md.
 -->
 
-<h1 align="center">Hi, I'm Ali👋</h1>
+<p align="center">
+  <a href="https://github.com/SH-alii">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;Full-stack+%26+Mobile+Developer;React+Native+%C2%B7+TanStack+%C2%B7+Supabase;I+build+cross-platform+apps+end+to+end" alt="Ali Shareef" />
+  </a>
+</p>
 
 <p align="center">
-  <b>Full-stack & mobile developer</b> — React Native · NextJs · Supabase<br/>
-  I build cross-platform apps end to end, from Expo mobile clients to SSR web dashboards.
+  Cross-platform apps end to end — from Expo mobile clients to SSR web dashboards.
 </p>
 
 <p align="center">
@@ -19,28 +22,41 @@
 ### 🚀 About Me
 
 - 🔭 Currently building **ClinicHub** — a medical clinic discovery & booking platform (Expo mobile app + TanStack Start admin dashboard, both on Supabase).
-- 💻 I work across the stack: **React Native / Expo** on mobile, **React / TanStack Start** on web, **Supabase (Postgres)** on the backend.
-- 🧠 Into clean architecture, type-safe data layers (TanStack Query), and polished mobile UX.
-- 🌱 Always exploring new tools in the React & TypeScript ecosystem.
-  
+- 💻 Full-stack focus: **React Native / Expo** on mobile, **React / TanStack Start** on web, **Supabase (Postgres)** on the backend.
+- 🧠 I care about clean architecture, type-safe data layers (TanStack Query), and polished mobile UX.
+- 🤝 Open to collaboration and always exploring new tools in the React & TypeScript ecosystem.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
+**Languages**
+&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frontend**
+&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+**Backend & Data**
+&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Data Layer & Tooling**
+&nbsp;
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -50,24 +66,35 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[ClinicHub Mobile](https://github.com/SH-alii/clinicHub)** | Patient app for discovering clinics, booking appointments, prescriptions & chat. | Expo · React Native · Supabase · TanStack Query |
-| **[ClinicHub Backend](https://github.com/SH-alii/clinic_hub_backend)** | SSR admin & clinic-owner dashboard. | TanStack Start · React 19 · Supabase |
+| **🏥 ClinicHub Mobile** 🔒 | Expo patient app — clinic discovery, appointment booking, prescriptions & in-app chat. | Expo · React Native · Supabase · TanStack Query |
+| **🖥️ ClinicHub Backend** 🔒 | SSR admin & clinic-owner dashboard for the platform. | TanStack Start · React 19 · Supabase |
+
+<p align="center"><sub>🔒 Private repositories — code walkthrough available on request.</sub></p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SH-alii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH-alii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SH-alii&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH-alii&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SH-alii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SH-alii&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SH-alii&theme=react-dark&hide_border=true&area=true&color=FE428E&line=FE428E&point=FFFFFF&bg_color=1F1F1F" alt="Contribution Activity Graph"/>
 </p>
 
 <!--
-  Tip: the stats/streak images above are generated by free third-party
-  services (github-readme-stats, github-readme-streak-stats). They work
-  out of the box — just swap in your username. No setup required.
+  Widgets (all zero-setup, no GitHub Action or API keys needed):
+   • readme-typing-svg .......... animated header
+   • github-readme-stats ........ stats, top-langs
+   • github-readme-streak-stats . streak
+   • github-readme-activity-graph contribution graph
+  Note: Featured Projects are PRIVATE repos, so they're listed (no links) as a
+  showcase. If you make a repo public later, link it: [Name](https://github.com/SH-alii/repo).
+  Theme: swap `radical` (and the FE428E accent) for another theme to restyle.
 -->
