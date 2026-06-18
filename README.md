@@ -4,13 +4,13 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/SH-alii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;Full-stack+%26+Mobile+Developer;React+Native+%C2%B7+NextJs+%C2%B7+Supabase;I+build+cross-platform+apps+end+to+end" alt="Ali " />
-  </a>
+  <img src="assets/banner.svg" alt="Ali  — Full-stack & Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
-  Cross-platform apps end to end — from Expo mobile clients to SSR web dashboards.
+  <a href="https://github.com/SH-alii">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=50&lines=React+Native+%C2%B7+Expo+%C2%B7+TanStack+%C2%B7+Supabase;Type-safe+from+database+to+UI;I+build+cross-platform+apps+end+to+end" alt="taglines" />
+  </a>
 </p>
 
 <p align="center">
@@ -25,6 +25,15 @@
 - 💻 Full-stack focus: **React Native / Expo** on mobile, **React / TanStack Start** on web, **Supabase (Postgres)** on the backend.
 - 🧠 I care about clean architecture, type-safe data layers (TanStack Query), and polished mobile UX.
 - 🤝 Open to collaboration and always exploring new tools in the React & TypeScript ecosystem.
+
+---
+
+### 💡 What I Bring
+
+- 🚀 **End-to-end ownership** — from database schema and server/API logic to the mobile & web UI.
+- 🔒 **Type-safe top to bottom** — TypeScript, generated Supabase types, and TanStack Query.
+- 📦 **Ships to production** — EAS builds & over-the-air updates, RLS-secured Supabase backends.
+- 📱 **Polished UX** — gestures, haptics, real-time data, and offline-friendly state.
 
 ---
 
@@ -64,10 +73,23 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| **🏥 ClinicHub Mobile** 🔒 | Expo patient app — clinic discovery, appointment booking, prescriptions & in-app chat. | Expo · React Native · Supabase · TanStack Query |
-| **🖥️ ClinicHub Backend** 🔒 | SSR admin & clinic-owner dashboard for the platform. | TanStack Start · React 19 · Supabase |
+#### 🏥 ClinicHub Mobile &nbsp;🔒
+*Expo / React Native patient app for clinic discovery & appointment booking.*
+`Expo` · `React Native` · `Supabase` · `TanStack Query`
+
+- ⚡ **Atomic, race-safe booking** via a Postgres RPC (`reserve_and_book_appointment`) that reserves the slot and creates the payment in one transaction.
+- 🔐 **Biometric auth** (Face ID / Touch ID) with the session token stored in an **AES-encrypted SecureStore** wrapper (`LargeSecureStore`).
+- 💬 **Real-time clinic↔patient chat** (Supabase Realtime) and **AI symptom triage** via Supabase Edge Functions.
+- 🚀 **EAS build + OTA update pipeline**, internationalization (EN / Bahasa Melayu), and maps with a graceful Expo Go fallback.
+
+#### 🖥️ ClinicHub Backend &nbsp;🔒
+*TanStack Start SSR dashboard — admin & clinic-owner portals.*
+`TanStack Start` · `React 19` · `Supabase` · `Tailwind v4`
+
+- 🧩 **SSR with co-located server functions** (`createServerFn`) — no separate REST API to maintain.
+- 🛂 **Two role-based portals** (admin / clinic) gated by Postgres **RLS** + role checks.
+- 🔑 **Dual Supabase clients** — a user-scoped RLS client and a service-role admin client for privileged ops.
+- 📷 **QR check-in scanner**, Leaflet location picker, and `recharts` analytics, all in **shadcn/ui**.
 
 <p align="center"><sub>🔒 Private repositories — code walkthrough available on request.</sub></p>
 
