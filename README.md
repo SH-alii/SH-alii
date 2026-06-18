@@ -3,9 +3,7 @@
   Publishing steps: see SETUP-INSTRUCTIONS.md.
 -->
 
-<p align="center">
-  <img src="assets/banner.svg" alt="Ali  — Full-stack & Mobile Developer" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/SH-alii">
