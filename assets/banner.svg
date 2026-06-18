@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-label="Ali Shareef — Full-stack and Mobile Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#1A1030"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FE428E"/>
+      <stop offset="100%" stop-color="#8A2BE2"/>
+    </linearGradient>
+    <style>
+      .name { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; }
+      .role { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; }
+      .tag  { font-family: 'Fira Code', 'Consolas', monospace; font-weight: 500; }
+      .sub  { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1196" height="296" rx="22" fill="none" stroke="#FE428E" stroke-opacity="0.25" stroke-width="2"/>
+
+  <!-- decorative accent dots -->
+  <circle cx="1090" cy="70" r="6" fill="#FE428E" opacity="0.9"/>
+  <circle cx="1120" cy="70" r="6" fill="#8A2BE2" opacity="0.8"/>
+  <circle cx="1150" cy="70" r="6" fill="#FE428E" opacity="0.5"/>
+
+  <!-- left accent bar -->
+  <rect x="80" y="92" width="6" height="116" rx="3" fill="url(#accent)"/>
+
+  <!-- name -->
+  <text x="110" y="130" class="name" font-size="56" fill="#FFFFFF">Ali Shareef</text>
+  <!-- wave -->
+  <text x="455" y="128" font-size="46">👋</text>
+
+  <!-- role -->
+  <text x="112" y="178" class="role" font-size="28" fill="#FE428E">Full-stack &amp; Mobile Developer</text>
+
+  <!-- subtitle -->
+  <text x="112" y="212" class="sub" font-size="17" fill="#9CA3AF">Cross-platform apps end to end — from Expo mobile clients to SSR web dashboards.</text>
+
+  <!-- tech tags -->
+  <g class="tag" font-size="15" fill="#E5E7EB">
+    <rect x="110" y="238" width="150" height="34" rx="17" fill="#FE428E" fill-opacity="0.14" stroke="#FE428E" stroke-opacity="0.4"/>
+    <text x="185" y="260" text-anchor="middle">React Native</text>
+
+    <rect x="272" y="238" width="78" height="34" rx="17" fill="#FE428E" fill-opacity="0.14" stroke="#FE428E" stroke-opacity="0.4"/>
+    <text x="311" y="260" text-anchor="middle">Expo</text>
+
+    <rect x="362" y="238" width="110" height="34" rx="17" fill="#8A2BE2" fill-opacity="0.16" stroke="#8A2BE2" stroke-opacity="0.4"/>
+    <text x="417" y="260" text-anchor="middle">TanStack</text>
+
+    <rect x="484" y="238" width="112" height="34" rx="17" fill="#8A2BE2" fill-opacity="0.16" stroke="#8A2BE2" stroke-opacity="0.4"/>
+    <text x="540" y="260" text-anchor="middle">Supabase</text>
+
+    <rect x="608" y="238" width="120" height="34" rx="17" fill="#FE428E" fill-opacity="0.14" stroke="#FE428E" stroke-opacity="0.4"/>
+    <text x="668" y="260" text-anchor="middle">TypeScript</text>
+  </g>
+</svg>
