@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SH-alii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;Full-stack+%26+Mobile+Developer;React+Native+%C2%B7+NextJs+%C2%B7+Supabase;I+build+cross-platform+apps+end+to+end" alt="Ali Shareef" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;Full-stack+%26+Mobile+Developer;React+Native+%C2%B7+NextJs+%C2%B7+Supabase;I+build+cross-platform+apps+end+to+end" alt="Ali " />
   </a>
 </p>
 
@@ -84,9 +84,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SH-alii&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SH-alii&theme=react-dark&hide_border=true&area=true&color=FE428E&line=FE428E&point=FFFFFF&bg_color=1F1F1F" alt="Contribution Activity Graph"/>
-</p>
+
 
 ---
 
